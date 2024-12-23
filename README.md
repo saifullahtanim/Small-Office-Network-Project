@@ -33,11 +33,7 @@ This README file will guide you through the installation process, provide tutori
 - Assign IP address to the router
 - Assign static routing in order to send and receive packets from different networks. Refer to the tutorial mentioned above.
 
-# Screenshots
-![SS](./son.png)
-
-# License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
+.
 
 # Acknowledgements
 - Cisco Networking Academy for providing the tools and resources to make this project possible.
